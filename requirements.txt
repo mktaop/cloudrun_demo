@@ -1,0 +1,4 @@
+streamlit
+matplotlib
+google-cloud-aiplatform
+google-cloud-logging
