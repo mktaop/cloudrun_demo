@@ -10,6 +10,6 @@ You will need the following roles:
   
 Enable Billing for your project
 
-Enable Cloud Build API
+Enable Cloud Build API & Cloud Run Admin API
 
 Enable Identity and Access Management (IAM) API
